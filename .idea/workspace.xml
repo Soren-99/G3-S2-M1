@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1eb2c84-594c-4358-8807-1f3c735d676e" name="Changes" comment="esercizio 1">
-      <change afterPath="$PROJECT_DIR$/src/Esercizio1/Esercizio2.java" afterDir="false" />
+    <list default="true" id="e1eb2c84-594c-4358-8807-1f3c735d676e" name="Changes" comment="esercizio 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Esercizio1/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Esercizio1/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizio1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Esercizio1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizio1/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Esercizio1/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,26 @@
     "onboarding.tips.debug.path": "/Users/SorenRahimi/IdeaProjects/G3-S2-M1/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Esercizio1.Main" />
+      <module name="G3-S2-M1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Esercizio1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,11 +88,20 @@
       <option name="project" value="LOCAL" />
       <updated>1710340391718</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="esercizio 2">
+      <option name="closed" value="true" />
+      <created>1710342253650</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710342253650</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="esercizio 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="esercizio 1" />
+    <MESSAGE value="esercizio 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="esercizio 2" />
   </component>
 </project>

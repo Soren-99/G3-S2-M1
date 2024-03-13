@@ -45,5 +45,8 @@ class Product {
         this.price = price;
     }
 
-
+    public void applyDiscount (double discountPercentage){
+        double discount = price * discountPercentage / 100;
+        price -= discount;
+    }
 }
